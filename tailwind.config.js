@@ -13,10 +13,14 @@ module.exports = {
       backgroundImage: {
         'custom-radial': 'radial-gradient(46.35% 478.71% at 50% 62.85%, #E3E3E3 0%, #D7FDF4 73.4%)',
       },
+      
         colors: {
           'custom-teal': '#3E8180',
           'custom-or': '#E87F3F',
           'customWhite': '#FFFFFF',
+          'fullbg':'#F1F1F1',
+          'circle':'#5CCAAB',
+          'footer':'#322C4E',
         }
       
 

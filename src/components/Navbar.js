@@ -27,9 +27,9 @@ const Navbar = () => {
 
                     </div>
 
-                    <div class="flex flex-col items-center text-center mx-auto sm:mt-[4px] lg:pr-[90px]  md:mt-[35px] lg:mt-[50px] row-span-2 ">
+                    <div class="flex flex-col items-center text-center mx-auto sm:mt-[4px] lg:pr-[120px]  md:mt-[35px] lg:mt-[50px] row-span-2 ">
 
-                        <div class="text-custom-teal max-w-[747px] sm:text-[15px] sd:text-[19px] md:text-[25px] sd:font-[600] md:font-[700] md:pr-[40px] lg:text-[40px] font-[800]">
+                        <div class="text-custom-teal max-w-[747px] sm:text-[15px] sd:text-[19px] md:text-[25px] sd:font-[600] md:font-[700] md:pr-[40px] lg:text-[40px]  font-[800]">
                             Discover New Construction Homes Before They Hit The Market
                         </div>
 

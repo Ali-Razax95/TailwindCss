@@ -1,3 +1,10 @@
+@font-face {
+  font-family: 'Airbnb Cereal thin';
+  src: url('.././public/Assets/Airbnb Cereal App/AirbnbCereal_W_Bd.otf');
+}
+*body{
+  font-family: 'Airbnb Cereal thin, sans-serif';
+}
 .App {
   text-align: center;
 }
